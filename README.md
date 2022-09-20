@@ -12,7 +12,7 @@
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-JWANNA&layout=compact&theme=apprentice)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-JWANNA&exclude_repo=H-JWANNA&layout=compact&theme=apprentice)
 
 </div>
 
