@@ -1,6 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header" width="100%" />
-
-<br>
 <div align=center><h2>🌱 I’m currently learning</h1></div>
 <br>
 <div align=center> 
