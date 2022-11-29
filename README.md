@@ -1,11 +1,13 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header)
 
 <br>
 <div align=center><h2>🌱 I’m currently learning</h1></div>
 <br>
 <div align=center> 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> 
-  <br>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring&logoColor=white"> 
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> 
 </div>
 
 <div align=center> 
