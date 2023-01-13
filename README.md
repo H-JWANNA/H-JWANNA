@@ -5,14 +5,14 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring&logoColor=white"> 
   <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> 
+<!--   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">  -->
 </div>
 
 <div align=center> 
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-JWANNA&hide=html,css&exclude_repo=H-JWANNA&layout=compact&theme=apprentice)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-JWANNA&hide=html,css&exclude_repo=H-JWANNA&layout=compact&theme=apprentice) -->
 
 </div>
 
